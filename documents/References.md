@@ -22,7 +22,7 @@
 
 ## Git
 
-* Git & Github: https://www.jianshu.com/p/296d22275cdd
 * Git 教程: https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496
+* Git & Github: https://www.jianshu.com/p/296d22275cdd
 * Git 十大命令: https://blog.csdn.net/qq_28168421/article/details/105591602
 * Git vs SVN: https://juejin.cn/post/6844903619813179405
