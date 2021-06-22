@@ -1,6 +1,13 @@
 # 第一讲
 
-## 推荐资料
+## 推荐网站/工具
+
+* 刷题：https://leetcode-cn.com/
+* 算法、数据结构、笔面试重点等：https://leetcode-cn.com/leetbook/
+* 招聘信息：Boss直聘（推荐）、牛客网、脉脉
+* CV制作：冷熊简历（md文件，推荐）http://cv.ftqq.com/ 超级简历：https://www.wondercv.com/
+
+## 推荐书籍
 
 ### 基础
 
